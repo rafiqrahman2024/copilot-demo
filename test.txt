@@ -1,2 +1,4 @@
 "hello gitai" 
 "AI tracking test" 
+"simulated change" 
+"simulated change" 
