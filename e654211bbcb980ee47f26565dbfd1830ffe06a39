@@ -1,0 +1,24 @@
+addTwoNumber.py
+  d852c051d92222a8 1-3,6-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "e654211bbcb980ee47f26565dbfd1830ffe06a39",
+  "prompts": {
+    "d852c051d92222a8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "14e91bf5-f647-4d72-b342-03dfd97ba3ed",
+        "model": "default"
+      },
+      "human_author": "Rafiq",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 0,
+      "accepted_lines": 5,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/73624ae693fb17cc5bd87f4285f4dc006e648e117b2dba4540dfcc89990644f7"
+    }
+  }
+}
