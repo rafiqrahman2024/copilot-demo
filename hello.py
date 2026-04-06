@@ -13,11 +13,17 @@ def quicksort(arr):
     
     return quicksort(left) + middle + quicksort(right)
 
+
+def sum_numbers(a, b):
+    print(f"Sum: {a + b}")
+
+
 def main():
     numbers = [10, 7, 8, 9, 1, 5]
     sorted_numbers = quicksort(numbers)
     print(greet("Hello R R ..done this change manually"))
     print(f"Sorted numbers: {sorted_numbers}")
+    sum_numbers(10, 20)
 
 
 if __name__ == "__main__":
